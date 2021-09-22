@@ -1,0 +1,42 @@
+html {
+    background-color: rgb(199, 242, 253);
+}
+
+h1 {
+    position: relative;
+    background-color: black;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+.earth {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 300px;
+
+}
+
+ul {
+    display: flex;
+    margin-right: 20px;
+    justify-content: space-evenly;
+    font-family:'Courier New', Courier, monospace;
+    list-style-type: none;
+}
+
+.fruit-cake a,
+.kimchi-rice a,
+.cajun-chicken a {
+    color: black;
+    background-color: rgb(255, 254, 254);
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+}
+
+
+
